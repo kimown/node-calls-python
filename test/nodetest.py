@@ -2,6 +2,7 @@ import numpy as np
 import nodetestre
 
 def hello():
+    raise "11111"
     print("hello world")
 
 def dump(a, b):
